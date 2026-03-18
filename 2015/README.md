@@ -6,8 +6,9 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 
 ## Challenges
 
--  [Day 01: Not Quite Lisp](./challenges/day-01.md)
--  [Day 02: I Was Told There Would Be No Math](./challenges/day-02.md)
+-  [Day 01: Not Quite Lisp](./challenges/01_not_quite_lisp.md)
+-  [Day 02: I Was Told There Would Be No Math](./challenges/02_i_was_told_there_would_be_no_math.md)
+-  [Day 03: Perfectly Spherical House in a Vacuum](./challenges/03_perfectly_spherical_houses_in_a_vacuum.md)
 
 ## Completed Tree
 
